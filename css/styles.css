@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #BEAEE2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #BEAEE2;
+  font-weight: normal;
+}
+
+.tittle1 {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #CE7BB0;
+  position: relative;
+  bottom: 50px;
+  margin: 50 auto 0 auto;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #BEAEE2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+.p {
+  line-height: 2;
+}
+
+.top-container {
+  padding-top: 100px;
+  margin: 0 auto 0 auto;
+  background-color: #FDEFF4;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #F7DBF0;
+  margin-bottom: 0;
+  padding: 60px;
+}
+
+.intro {
+  margin: auto;
+  text-align: center;
+  width: 20%;
+}
+
+.skills {
+  margin: auto 20% auto 20%;
+}
+
+.skill-row {
+  max-width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-image {
+  border-radius: 50%;
+  max-width: 12%;
+  margin-top: 0;
+}
+
+.coding-image {
+  max-width: 34%;
+  float: left;
+  margin-right: 20px;
+}
+
+.gaming-image {
+  max-width: 34%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 29;
+  -moz-border-radius: 29;
+  border-radius: 29px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #BEAEE2;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CE7BB0;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.get-in-touch {
+  position: relative;
+  top: 40px;
+}
+
+.contact-me {
+  line-height: 3;
+  position: relative;
+  margin: 40px auto 60px;
+}
+
+a {
+  color: #BEAEE2;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #CE7BB0;
+  text-decoration: none;
+}
+
+.footer-text {
+  margin-top: 50px;
+  color: #F9F9F9;
+  font-size: 1em;
+}
